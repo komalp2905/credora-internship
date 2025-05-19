@@ -23,7 +23,7 @@ This project is a stopwatch that tracks elapsed time and includes optional featu
 
 ## Setup & Run
 
-1. Download or Clone this repository:git clone https://github.com/your-username/stopwatch.git
+1. Download or Clone this repository:git clone https://github.com/komalp2905/credora-internship.git
 
 2. Navigate to the project folder:cd stopwatch
 
